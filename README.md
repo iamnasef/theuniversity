@@ -40,6 +40,22 @@ The university serves as a platform where I showcase applications designed speci
 
 </details>
 
+<details><summary><b>Projects 003 - Boot2Root </b></summary>
+
+1. [``Boot2Root 001 - Nasef's Special Operation #1 (Locating Target)``](https://github.com/iamnasef/nso-locatingtarget) is an educational tool to explore the seven most common methods of Linux privilege escalation.
+
+.
+
+</details>
+
+<details><summary><b>Projects 004 - Linux Privilege Escalation </b></summary>
+
+1. [``Linux Privilege Escalation 001 - Nasef's No Permission #1 (LinESC)``](https://github.com/iamnasef/nnp-linesc) is a challenge where player take on the role of Agent R, tasked with leading a task force to rescue Agent N.A.S.E.F., who has gone missing during a secret mission in the enemy state "SOURG."
+
+.
+
+</details>
+
 ## Key Features
 
 - The university platform offers a diverse collection of projects spanning multiple disciplines and technologies.
@@ -63,6 +79,7 @@ This is the list of technologies used in the project
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
 | [C](https://simple.wikipedia.org/wiki/C_(programming_language))    | A general-purpose computer programming language.
+| [Linux](https://www.linux.org/)    | A family of open-source Unix-like operating systems based on the Linux kernel     
 | [Malware analysis](https://www.cisa.gov/resources-tools/services/malware-analysis)                           | A study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor  
 | [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering)                           | A lightweight markup language for creating formatted text using a plain-text editor language                   
 | [Markdown](https://www.markdownguide.org/)                           | A lightweight markup language for creating formatted text using a plain-text editor language                 
