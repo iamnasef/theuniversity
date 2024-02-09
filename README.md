@@ -62,6 +62,7 @@ This is the list of technologies used in the project
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
+| [C](https://simple.wikipedia.org/wiki/C_(programming_language))    | A general-purpose computer programming language.
 | [Malware analysis](https://www.cisa.gov/resources-tools/services/malware-analysis)                           | A study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor  
 | [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering)                           | A lightweight markup language for creating formatted text using a plain-text editor language                   
 | [Markdown](https://www.markdownguide.org/)                           | A lightweight markup language for creating formatted text using a plain-text editor language                 
