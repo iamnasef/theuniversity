@@ -43,9 +43,6 @@ The university serves as a platform where I showcase applications designed speci
 <details><summary><b>Projects 003 - Boot2Root </b></summary>
 
 1. [``Boot2Root 001 - Nasef's Special Operation #1 (Locating Target)``](https://github.com/iamnasef/nso-locatingtarget) is an educational tool to explore the seven most common methods of Linux privilege escalation.
-
-.
-
 </details>
 
 <details><summary><b>Projects 004 - Linux Privilege Escalation </b></summary>
