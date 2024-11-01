@@ -9,8 +9,7 @@ The university serves as a hub for all projects developed by Esqueware, with the
 
 
 <p align="center">
-<a href="https://esqueware.com/"><img src="https://img.shields.io/badge/ESQUEWARE-ed360c?style=for-the-badge&logo=googlehome
-&logoColor=white"/></a>
+<a href="https://esqueware.com/"><img src="https://img.shields.io/badge/ESQUEWARE-ed360c?style=for-the-badge&logo=googlehome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/company/esqueware/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/esqueware"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.youtube.com/@esqueware"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red"/></a>
