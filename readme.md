@@ -1,6 +1,5 @@
-<p align="center">
-<img src=banners.gif />
-<h1 style="font-size:70px;text-align:center;">THE UNIVERSITY</h1>
+<p align="center"><img src=banners.gif /></p>
+<p align="center" style="font-size:70px">THE UNIVERSITY</p>
 <p align="center">
 The university serves as a hub for all projects developed by Esqueware, with the goal of offering a tutorial-based resources for rebuilding or creating similar projects.
 
@@ -16,7 +15,7 @@ The university serves as a hub for all projects developed by Esqueware, with the
 <a href="https://twitter.com/esqueware"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.youtube.com/@esqueware"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-</p>
+
 
 
 # SECTION 001
