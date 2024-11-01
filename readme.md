@@ -5,7 +5,7 @@ The university serves as a hub for all projects developed by Esqueware, with the
 
 </p>
 
-<p align="center"><b>Have us, and follow us below</b1></p>
+<p align="center"><b>Have Fun, and follow us below</b1></p>
 
 
 <p align="center">
