@@ -1,6 +1,6 @@
 <p align="center">
 <img src=banners.gif />
-<p align="center"> <h1 style="font-size:70px">THE UNIVERSITY</h1> </p>
+<h1 style="font-size:70px;text-align:center;">THE UNIVERSITY</h1>
 <p align="center">
 The university serves as a hub for all projects developed by Esqueware, with the goal of offering a tutorial-based resources for rebuilding or creating similar projects.
 
