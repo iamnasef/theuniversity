@@ -27,3 +27,4 @@ The university serves as a hub for all projects developed by Esqueware, with the
 | DEMO Name #2  | https://demourl.com/project-github-2  | This is just a description for a project #2 that should replace this text  |
 
 </center>
+# theuniversity
